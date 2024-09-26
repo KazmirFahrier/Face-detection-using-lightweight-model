@@ -18,7 +18,7 @@ This project implements a face recognition model using the **MobileNetV2** archi
 
 ## How to Run
 
-1. Train the model on Kaggle or any other environment using the provided dataset.
+1. Train the model on Kaggle or any other environment using any similar structured dataset.
 2. Convert the model to **TensorFlow Lite** for deployment on embedded systems.
 3. Deploy the TensorFlow Lite model on Raspberry Pi or similar devices for real-time face recognition.
 
